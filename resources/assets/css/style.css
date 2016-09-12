@@ -1,0 +1,16 @@
+@font-face{font-family:'w_yekan';src:url(../fonts/WebYekan.eot);src:url(../fonts/WebYekan.eot?#iefix) format("embedded-opentype"),url(../fonts/WebYekan.woff) format("woff"),url(../fonts/WebYekan.ttf) format("truetype"),url(../fonts/WebYekan.svg#WebYekan) format("svg")}
+@font-face{font-family:'vazir';src:url(../fonts/Vazir.eot);src:url(../fonts/Vazir.eot?#iefix) format("embedded-opentype"),url(../fonts/Vazir.woff) format("woff"),url(../fonts/Vazir.ttf) format("truetype")}
+@font-face{font-family:'dinar';src:url(../fonts/Mj_Dinar.eot);src:url(../fonts/Mj_Dinar.eot?#iefix) format("embedded-opentype"),url(../fonts/Mj_Dinar.woff) format("woff"),url(../fonts/Mj_Dinar.ttf) format("truetype")}
+body{font-family: vazir;}
+.container{direction:rtl}
+.dropdown-menu > li > form > a{clear: both;color: #333333;display: block;font-weight: normal;line-height: 1.42857;padding: 3px 20px;white-space: nowrap;cursor:pointer;text-decoration:none;}
+.table th{text-align:right}
+#form-list{display:inline}
+.btn-spacing{margin-top:10px}
+.list-group{padding-right:0}
+.author-image{width:50px;height:50px;border-radius:50%;float:right}
+.author-name{float:right;margin-right:10px;color:#aaa}
+.author-name h4{font-size:12px}
+.author-time{float:right;color:#aaa;font-size:11px}
+.comment-content{clear:both}
+.comment{margin-bottom:30px}
