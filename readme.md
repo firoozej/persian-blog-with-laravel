@@ -4,7 +4,7 @@ This is a simple base blog application which has been written for training purpo
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide will be soon published.
+Thank you for considering contributing to the Project! The contribution guide will be soon published.
 
 ## Security Vulnerabilities
 
